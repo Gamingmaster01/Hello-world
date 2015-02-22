@@ -1,3 +1,2 @@
 # Hello-world
-the simple hello world
-My first respitory ignore
+Lets have fun people and lets not stop
